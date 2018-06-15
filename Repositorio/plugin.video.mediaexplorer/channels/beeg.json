@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "adult": true,
+  "categories": ["adult"],
+  "changes": [
+    {
+      "date": "01/09/2017",
+      "description": "Primera versi\u00f3n"
+    }
+  ],
+  "id": "beeg",
+  "min_version": {
+    "main": null,
+    "python": null
+  },
+  "name": "Beeg",
+  "search": {
+    "adult": {
+      "action": "search",
+      "content": "videos"
+    }
+  },
+  "settings": [],
+  "version": 1
+}
