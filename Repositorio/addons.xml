@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.mediaexplorer"
+<addon id="plugin.video"
        name="MediaExplorer"
        version="1.0.2"
        provider-name="MediaExplorer">
